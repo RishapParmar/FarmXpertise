@@ -1,4 +1,4 @@
-# Project Name: AgriIntel
+# Project Name: FarmXpertise
 # PS Code : SIH1352
 ## Team Name: Code Catalysts
 - Team Members: Parmar Rishap
